@@ -1,10 +1,9 @@
 # Task3_Dashboard
 This interactive Power BI dashboard visualizes key business metrics such as Total Revenue, Year-over-Year Growth, Customer Ratings, and Units Sold. It allows stakeholders to explore performance trends across brands, cities, and time using slicers and a navigation menu. 
 
-Tools Used :
-- Power BI Desktop 
+Tools Used : Power BI Desktop 
 
-Task Permormed Before Building Dashboard : Performed ETL usning Power query , Craete New Meausres using DAX , create Custom Date table
+Task Permormed Before Building Dashboard : Performed ETL using Power query , Craete New Meausres using DAX formulas , create Custom Date table
 
 Design & Interaction :
 Cards: Display key summary metrics (Revenue, YoY Growth, Units Sold, etc.)
